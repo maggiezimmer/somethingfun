@@ -11,6 +11,8 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r}
 summary(cars)
+plot(1:10,1:10)
+plot(1:5,1:5)
 ```
 
 You can also embed plots, for example:
